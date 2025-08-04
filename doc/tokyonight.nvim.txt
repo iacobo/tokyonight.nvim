@@ -285,6 +285,7 @@ USAGE                                      *tokyonight.nvim-tokyo-night-usage*
     colorscheme tokyonight-storm
     colorscheme tokyonight-day
     colorscheme tokyonight-moon
+    colorscheme tokyonight-midnight
 <
 
 Some plugins need extra configuration to work with **TokyoNight**.
