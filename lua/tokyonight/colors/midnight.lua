@@ -5,8 +5,8 @@ return vim.tbl_deep_extend("force", ret, {
   bg = "#1a1b26",
   bg_dark = "#16161e",
   bg_dark1 = "#0C0E14",
-  green = "#6ace97ff",
-  orange = "#d364ffff",
+  green = "#6ace97",
+  orange = "#d364ff",
   --terminal_black = "#414868",
-  yellow = "#68e08eff",
+  yellow = "#68e08e",
 })
