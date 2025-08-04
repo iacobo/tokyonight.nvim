@@ -2,11 +2,13 @@ local ret = vim.deepcopy(require("tokyonight.colors.storm"))
 
 ---@type Palette
 return vim.tbl_deep_extend("force", ret, {
-  bg = "#1a1b26",
-  bg_dark = "#16161e",
-  bg_dark1 = "#0C0E14",
+  bg = "#0f1016",
+  bg_dark = "#0f0f14",
+  bg_dark1 = "#090a0f",
+  blue = "#917af7",
+  blue0 = "#563da1",
   green = "#6ace97",
-  orange = "#d364ff",
+  orange = "#c88de0",
   --terminal_black = "#414868",
   yellow = "#68e08e",
 })
